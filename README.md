@@ -52,8 +52,8 @@ Modify *full_name.py* according to the instructions below.
 
 ## Exercise 6
 
-Create a Python script called *fehrenheit_to_celsius.py*
+Create a Python script called *fahrenheit_to_celsius.py*
 
-* The script should declare a variable called fehrenheit.
-* The script should then convert the value of fehrenheit and convert it to celsius.
+* The script should declare a variable called fahrenheit.
+* The script should then convert the value of fahrenheit and convert it to celsius.
 * The celsius value should be displayed on the screeen.
