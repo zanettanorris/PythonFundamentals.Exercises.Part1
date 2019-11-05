@@ -41,6 +41,10 @@ Create a Python script called *first_name_500_times.py*. Modify your script acco
 
 * Using Terminal, make a copy of *first_name_500_times.py* and call it *full_name.py*
 
+```
+cp first_name_500_times.py full_name.py
+```
+
 ## Exercise 5.b
 
 Modify *full_name.py* according to the instructions below.
