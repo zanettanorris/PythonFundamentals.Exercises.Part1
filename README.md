@@ -55,5 +55,6 @@ Modify *full_name.py* according to the instructions below.
 Create a Python script called *fahrenheit_to_celsius.py*
 
 * The script should declare a variable called fahrenheit.
-* The script should then convert the value of fahrenheit and convert it to celsius.
-* The celsius value should be displayed on the screeen.
+* The script should then convert the value of fahrenheit to celsius.
+* The convertion should be displayed on the screeen in the following format:
+"32 degrees fahrenheit is equal to 0.0 degree(s) celsius"
