@@ -2,6 +2,7 @@
 
 ## Accompanying resources
 * Slide deck: https://zipcoder.github.io/reveal-slides.data-engineering/zcw_content/python/fundamentals-part1.html
+* Metric Conversion charts: https://www.metric-conversions.org/
 
 ## Exercise 1
 
